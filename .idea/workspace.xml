@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="65d687c1-79d5-4e30-b433-2686dab9b6a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MessageInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MessageInput.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UsersForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UsersForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/layouts/Chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Chat.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580922552510</updated>
-      <workItem from="1580922553704" duration="4400000" />
+      <workItem from="1580922553704" duration="4605000" />
     </task>
     <task id="LOCAL-00001" summary="Partial">
       <created>1580924907722</created>
@@ -73,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580925892205</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Basic functionality">
+      <created>1580927929138</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580927929138</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,7 +86,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Partial" />
     <MESSAGE value="Finished rest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished rest" />
+    <MESSAGE value="Basic functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic functionality" />
   </component>
   <component name="WindowStateProjectService">
     <state x="842" y="32" width="834" height="1014" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580925150046">
@@ -93,10 +98,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="842" y="32" width="834" height="1014" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1580923530922" />
-    <state x="842" y="32" width="834" height="1014" key="CommitChangelistDialog2" timestamp="1580925892096">
+    <state x="842" y="32" width="834" height="1014" key="CommitChangelistDialog2" timestamp="1580927929055">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="842" y="32" width="834" height="1014" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1580925892096" />
+    <state x="842" y="32" width="834" height="1014" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1580927929055" />
     <state x="652" y="444" key="Github.ShareDialog" timestamp="1580924937114">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -117,13 +122,13 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1651" height="275" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580925345171" />
-    <state x="842" y="32" width="834" height="1014" key="Vcs.Push.Dialog.v2" timestamp="1580925894045">
+    <state x="842" y="32" width="834" height="1014" key="Vcs.Push.Dialog.v2" timestamp="1580927931208">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="842" y="32" width="834" height="1014" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1580925894045" />
-    <state x="505" y="256" width="670" height="676" key="search.everywhere.popup" timestamp="1580927916031">
+    <state x="842" y="32" width="834" height="1014" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1580927931208" />
+    <state x="505" y="256" width="670" height="676" key="search.everywhere.popup" timestamp="1580928243857">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="256" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1580927916031" />
+    <state x="505" y="256" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1580928243857" />
   </component>
 </project>

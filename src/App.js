@@ -7,7 +7,7 @@ import 'primereact/resources/primereact.min.css';
 import 'primeicons/primeicons.css';
 import {Chat} from './layouts/Chat';
 
-export const url = "http://localhost:8080";
+export const url = "https://ingweb-paas.herokuapp.com";
 
 function App() {
   return (
