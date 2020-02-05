@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65d687c1-79d5-4e30-b433-2686dab9b6a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ingweb-rest-client-specific.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contacts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Message.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MessageInput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Messages.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UsersForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/Chat.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ingweb-rest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Messages.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Messages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/Chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/Chat.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +36,16 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -63,21 +57,65 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580922552510</updated>
-      <workItem from="1580922553704" duration="2009000" />
+      <workItem from="1580922553704" duration="2749000" />
     </task>
+    <task id="LOCAL-00001" summary="Partial">
+      <created>1580924907722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580924907722</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Partial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Partial" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="842" y="32" width="834" height="1014" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580925150046">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="842" y="32" width="834" height="1014" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1580925150046" />
     <state x="842" y="32" width="834" height="1014" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580923530922">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="842" y="32" width="834" height="1014" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1580923530922" />
-    <state x="505" y="256" key="search.everywhere.popup" timestamp="1580924893114">
+    <state x="842" y="32" width="834" height="1014" key="CommitChangelistDialog2" timestamp="1580924907556">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="505" y="256" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1580924893114" />
+    <state x="842" y="32" width="834" height="1014" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1580924907556" />
+    <state x="652" y="444" key="Github.ShareDialog" timestamp="1580924937114">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="652" y="444" key="Github.ShareDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1580924937114" />
+    <state width="1651" height="275" key="GridCell.Tab.0.bottom" timestamp="1580925345171">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1651" height="275" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580925345171" />
+    <state width="1651" height="275" key="GridCell.Tab.0.center" timestamp="1580925345170">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1651" height="275" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580925345170" />
+    <state width="1651" height="275" key="GridCell.Tab.0.left" timestamp="1580925345170">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1651" height="275" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580925345170" />
+    <state width="1651" height="275" key="GridCell.Tab.0.right" timestamp="1580925345171">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1651" height="275" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580925345171" />
+    <state x="842" y="32" width="834" height="1014" key="Vcs.Push.Dialog.v2" timestamp="1580924926250">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="842" y="32" width="834" height="1014" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1580924926250" />
+    <state x="505" y="256" width="670" height="676" key="search.everywhere.popup" timestamp="1580925879871">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="256" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1580925879871" />
   </component>
 </project>

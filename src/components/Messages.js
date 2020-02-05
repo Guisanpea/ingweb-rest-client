@@ -20,9 +20,13 @@ export const Messages = ({senderEmail, receiverEmail}) => {
          })
   }, [senderEmail, receiverEmail]);
 
+  const addMessage = (message) => {
+    setMessages(messages.concat([message]))
+  }
+
   return (
      <Container>
-       <MessageInput senderEmail={senderEmail} receiverEmail={receiverEmail}/>
+       <MessageInput senderEmail={senderEmail} receiverEmail={receiverEmail} addMessage={addMessage}/>
        {messages.map(message => <Message message={message}/>)}
      </Container>
   );

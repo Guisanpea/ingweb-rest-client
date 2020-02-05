@@ -17,8 +17,12 @@ export const Chat = () => {
   return (
      <Container>
        <Row>
-         <Contacts setReceiver={setReceiver} sender={sender}/>
-         <UsersForm changeSender={changeSender} receiver={receiver}/>
+         <Col>
+           <Contacts setReceiver={setReceiver} sender={sender}/>
+         </Col>
+         <Col>
+           <UsersForm changeSender={changeSender} receiver={receiver}/>
+         </Col>
        </Row>
        <Messages receiverEmail={receiver} senderEmail={sender}/>
      </Container>

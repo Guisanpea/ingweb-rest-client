@@ -3,7 +3,7 @@ import {url} from '../App';
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 
-export const MessageInput = ({senderEmail, receiverEmail}) => {
+export const MessageInput = ({senderEmail, receiverEmail, addMessage}) => {
   const [message, setMessage] = useState("");
 
   const changeMessage = e => setMessage(e.target.value);
@@ -21,7 +21,8 @@ export const MessageInput = ({senderEmail, receiverEmail}) => {
         receiverEmail,
         message
       })
-    });
+    }).then(r => r.json())
+       .then(m => addMessage(m));
   };
 
   return (
