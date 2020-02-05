@@ -17,7 +17,7 @@ export const MessageInput = ({senderEmail, receiverEmail, addMessage}) => {
         'Content-Type': 'application/json'
       },
       body: JSON.stringify({
-        sender: {email: senderEmail},
+        senderEmail,
         receiverEmail,
         message
       })

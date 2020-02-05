@@ -3,7 +3,7 @@ import Col from 'react-bootstrap/Col';
 import Form from 'react-bootstrap/Form';
 import Row from 'react-bootstrap/Row';
 
-export const UsersForm = ({changeSender, receiver}) => {
+export const UsersForm = ({changeSender, changeReceiver}) => {
   return <Col>
     <Form>
       <Form.Group as={Row} controlId="sender">
@@ -19,7 +19,7 @@ export const UsersForm = ({changeSender, receiver}) => {
           Destino
         </Form.Label>
         <Col sm="10">
-          <Form.Control plaintext readonly value={receiver}/>
+          <Form.Control onChange={changeReceiver}/>
         </Col>
       </Form.Group>
     </Form>
