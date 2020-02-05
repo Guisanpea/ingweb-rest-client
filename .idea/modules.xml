@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ingweb-rest.iml" filepath="$PROJECT_DIR$/.idea/ingweb-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ingweb-rest-client-specific.iml" filepath="$PROJECT_DIR$/.idea/ingweb-rest-client-specific.iml" />
     </modules>
   </component>
 </project>
